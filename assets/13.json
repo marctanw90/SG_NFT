@@ -1,0 +1,45 @@
+{
+        "name": "SG_NFT#013",
+        "symbol": "SG",
+        "description": "SG NUMBER 1 COUNTRY IN THE WORLD. SGSECURE WILL KEEP US SAFE! MAJJULAH SINGAPURA ONWARD FOREVER!",
+        "seller_fee_basis_points": 750,
+        "image": "image.png",
+	"external_url":"https://www.sgsecure.gov.sg/",
+        "attributes": [
+            {
+                "trait_type": "Country",
+                "value": "SG"
+            },
+            {
+                "trait_type": "Gang",
+                "value": "SG_NFT"
+            },
+            {
+                "trait_type": "Year",
+                "value": "2022"
+            },
+            {
+                "trait_type": "MAJJULAH",
+                "value": "SINGAPURA"
+            }
+        ],
+        "collection": {
+            "name": "SG_NFT",
+            "family": "SG_NFT"
+        },
+        "properties": {
+            "files": [
+                {
+                    "uri": "image.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                 {
+                    "address": "GZwxqxMWg4Ur2HoM4rLVH7v4ZB8zUbM1GQJzNb66S1pJ",
+                    "share": 100
+                 }             
+            ]
+        }
+    }
